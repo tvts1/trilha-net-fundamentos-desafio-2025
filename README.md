@@ -20,7 +20,7 @@ Criar um fluxo de interação simples com o usuário via Console Application.
 
 Demonstrar boas práticas para desenvolvimento back-end com .NET.
 <hr>
-🛠 Tecnologias Utilizadas
+Tecnologias Utilizadas
 
 C# 12 / .NET 8.0
 
@@ -28,7 +28,7 @@ Regex para validação de placas
 
 Coleções (List<T>) para gerenciamento de dados em memória
 <hr>
-📚 Estrutura do Projeto
+Estrutura do Projeto
 
 Models/Car.cs → Entidade Car, responsável pela validação da placa.
 
@@ -40,7 +40,7 @@ Fluxo de responsabilidades:
 
 Usuário (Menu) → Parking (Gerencia carros) → Car (Valida e garante consistência)
 <hr>
-🚀 Como Executar
+Como Executar
 
 Clone o repositório:
 

@@ -58,11 +58,15 @@ Siga as instruções no console para cadastrar e gerenciar carros.
 💡 Exemplos de Uso
 
 Adicionar um carro válido:
+
 Digite a placa: ABC-1234
+
 Carro adicionado.
 
 Tentar adicionar um carro inválido:
+
 Digite a placa: ABC1234
+
 Erro: Placa inválida! Formato correto: ABC-1234.
 
 <hr>
